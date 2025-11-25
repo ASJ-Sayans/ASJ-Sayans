@@ -1,6 +1,8 @@
-<div align="center">
+<table>
+<tr>
+<td>
 
-<img src="https://raw.githubusercontent.com/ASJ-Sayans/ASJ-Sayans/main/Imagen.png" alt="Imagen" width="180" align="right" style="margin-left:20px; border-radius:12px;">
+<div align="center">
 
 # 👋 ¡Hola, bienvenid@ a mi GitHub!
 
@@ -28,3 +30,15 @@ En este perfil iré subiendo los primeros proyectos que vaya desarrollando duran
 </p>
 
 </div>
+
+</td>
+
+<td align="center" width="200">
+
+<img src="https://raw.githubusercontent.com/ASJ-Sayans/ASJ-Sayans/main/Imagen.png"
+     width="160" 
+     style="border-radius:50%;">
+
+</td>
+</tr>
+</table>
