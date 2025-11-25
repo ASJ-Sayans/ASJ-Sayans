@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ASJ-Sayans/ASJ-Sayans/main/imagen.png" alt="Imagen" width="180" align="right" style="margin-left:20px; border-radius:12px;">
+<img src="https://raw.githubusercontent.com/ASJ-Sayans/ASJ-Sayans/main/Imagen.png" alt="Imagen" width="180" align="right" style="margin-left:20px; border-radius:12px;">
 
 # 👋 ¡Hola, bienvenid@ a mi GitHub!
 
